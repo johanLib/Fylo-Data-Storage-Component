@@ -1,0 +1,9 @@
+{
+    "theme_color": "#0c122c",
+    "background_color": "#1d2c67",
+    "scope": "/",
+    "start_url": "/",
+    "name": "TFylo Data Storage Component Solution",
+    "short_name": "TFylo Data Storage Component",
+    "description": "TFylo Data Storage Component solution for frontend mentor"
+}
